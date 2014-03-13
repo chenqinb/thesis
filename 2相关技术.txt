@@ -31,5 +31,8 @@ WAVEÐ­ÒéÕ»µÄÖ÷Òª×é³É²¿·ÖÊÇIEEE1609ÏµÁÐ±ê×¼,Õë¶ÔÎÞÏßµçÍ¨ÐÅ¼¼ÊõÓ¦ÓÃÓÚ³µÔØÍ¨ÐÅ»·¾³Ë
 ÆäÖÐ£¬IEEE1609.4µÄ¶àÐÅµÀÐ­µ÷£¬ÊÇÕë¶ÔIEEE802.11pÐ­ÒéµÄÀ©Õ¹¡£¶àÐÅµÀÐ­µ÷·½Ê½Ö¸ÐÅµÀ»®·ÖÎª¿ØÖÆÐÅµÀºÍ·þÎñÐÅµÀ£¬¿ØÖÆÐÅµÀ¸ºÔð´«Êä¶ÔÊµÊ±ÐÔÒªÇó½Ï¸ßµÄ±¨ÎÄÒÔ¼°´«ÊäÐ­Òé¿ØÖÆ±¨ÎÄ£¬±ÈÈç°²È«Ïà¹ØµÄ³µÁ¾¹ÊÕÏ½ô¼±Í¨Öª¡¢³µÁ¾·ÀÅö×²Ô¤¾¯ÐÅÏ¢£¬ÒÔ¼°´«Êä¹ÜÀí¿ØÖÆÏà¹ØµÄ·þÎñÐÅÏ¢¹ã²¥µÈ£»SCH´«ÊäÊµÊ±ÐÔºÍ¿É¿¿ÐÔÒªÇó²»¸ßµÄÊý¾Ý£¬±ÈÈçµÀÂ·×èÈû¡¢×îÓÅÂ·¾¶¡¢ÌìÆøÔ¤±¨¡¢ÓéÀÖÐÂÎÅµÈ¡£ÓÉÓÚµ¥¸öÌìÏßÔÚÄ³¸öÊ±¿ÌÖ»ÄÜÒÔÒ»¸öÆµÂÊÊÕ·¢ÎÞÏßÐÅºÅ£¬ËùÒÔÒªÍ¬Ê±Ö§³ÖÁ½ÖÖÐÅµÀ£¬ÒªÃ´ÐèÒªÁ½¸ùÒÔÉÏÌìÏß£¬ÒªÃ´µ¥¸ùÌìÏß²»¶ÏµØÇÐ»»ÆµµÀÆµÂÊ¡£IEEE1609.4ÖÐÃ÷È·ÁËµ¥ÌìÏßµÄÐÅµÀÐ­×÷»úÖÆ¡£²»Í¬µÄÎÞÏßÉè±¸Ö®¼äµÄÕâÖÖÐÅµÀÐ­×÷»úÖÆ£¬ÒªÇóÍ¨ÐÅ¶ÔÏóÖ®¼äÊ±¼äÉÏµÄÍ¬²½£¬Ê¹µÃÈÎÒâÊ±¿ÌÎÞÏßÉè±¸¹¤×÷ÔÚÔ¼¶¨µÄÐÅµÀÉÏ¡£ÈçÍ¼2-4ËùÊ¾¡£IEEE1609.4Ð­ÒéÖÐÔÊÐíÊ¹ÓÃGPSÎÀÐÇÐÅºÅÖÐµÄÊ±¼äÐÅÏ¢À´Í¬²½ËùÓÐÉè±¸£¬Ò²ÔÊÐíRSU¹ã²¥WSA¹ã²¥ÐÅºÅ½øÐÐÍ¬²½¡£¶àÌìÏß¶àÎÞÏßÄ£¿é£¬¿ÉÑ¡ÔñÆäÖÐÒ»¸ö¹¤×÷ÔÚ¿ØÖÆÐÅµÀÉÏ£¬Ê£ÏÂµÄÔÚ·þÎñÐÅµÀÉÏ¹¤×÷¡£IEEE1609.4Ð­ÒéËù¶¨ÒåµÄ¶àÐÅµÀÐ­µ÷»úÖÆ¿ò¼ÜÈçÍ¼2-5ËùÊ¾£¬½¨Á¢ÔÚ802.11pËù¶¨ÒåµÄMACÊµÌåÖ®ÉÏ¡£
 
 ÈçÍ¼2-5ËùÊ¾£¬MACÖÐÐÂÔöÁËÒ»¸öchanne Router£¬ÓÃÀ´Â·ÓÉÉÏ²ã±¨ÎÄ£¬Ñ¡Ôñ¿ØÖÆÐÅµÀ»¹ÊÇ·þÎñÐÅµÀ¡£¶ÔÓÚÊµÊ±ÐÔÒªÇó¸ßµÄ±¨ÎÄÖ»ÄÜÂ·ÓÉµ½¿ØÖÆÐÅµÀCCHÉÏ£¬ÆäËûµÄÆÕÍ¨Êý¾ÝÔòÂ·ÓÉµ½·þÎñÐÅµÀSCH¡£ÉÏ¡£¿ØÖÆÐÅµÀºÍ·þÎñÐÅµÀ½øÒ»²½²ÉÓÃÁËEDCA»úÖÆ£¬ÓÐ4¸ö·¢ËÍ¶ÓÁÐ£¬²»Í¬·¢ËÍ¶ÓÁÐÓÐ²»Í¬µÄÓÅÏÈ¼¶¡£Ò»¸öÉÏ²ãÊý¾Ý±¨·¢ËÍ³öÈ¥µÄÁ÷³ÌÈçÏÂ£ºMACÊÕµ½ÉÏ²ãµÄÊý¾Ý°üÖ®ºó£¬Ê×ÏÈ¾­¹ýChannel RouterÂ·ÓÉÑ¡ÔñºÏÊÊµÄÐÅµÀ£¬È»ºó¸ù¾ÝÉÏ²ãÊý¾Ý°üµÄ·¢ËÍÓÅÏÈ¼¶Ñ¡ÔñºÏÊÊµÄ·¢ËÍ¶ÓÁÐ£¬½Ó×ÅEDCA»úÖÆ¸ù¾ÝÉèÖÃÑ¡ÔñÒ»¸öÉÏ²ãÊý¾Ý°ü´«µÝ¸øÏÂ²ãµÄMACÊµÌå£¬×îºó¸ÄMACÊµÌåÍ¨¹ýDCF¾ºÕùÈ¡µÃÎïÀíÎÞÏßÃ½½é·¢ËÍÈ¨Ê±½«Êý¾Ý·¢ËÍ³öÈ¥¡£¿ÉÒÔ¿´µ½£¬Êý¾ÝÔÚ·¢ËÍ¹ý³ÌÖÐ»á¾­¹ý¶à¸ö²ã´ÎµÄ¾ºÕù£¬ÐÎ³É²»Í¬µÈ¼¶µÄÓÅÏÈÈ¨£¬½ô¼±µÄÊý¾ÝÓÅÏÈ¼¶±È½Ï¸ß£¬»á±»¾¡¿ì·¢ËÍ³öÈ¥£¬ÑÓ³ÙÐ¡£¬¶øÒ»°ãµÄÆÕÍ¨Êý¾ÝÔòÓÅÏÈ¼¶½ÏµÍ£¬»áÓÐÉÔ¸ßµÄÑÓ³Ù£¬´Ó¶ø±£Ö¤WAVEµÄQoS¡£ÓÉÓÚWAVE¶àÁËChannel RouterµÈ£¬ËùÒÔÉÏ²ãÊý¾Ý°üµÄÍ·²¿ÐèÒªÐÂÔöÒ»Ð©²ÎÊýÅäÖÃ¡£
-
+    IEEE1609.3Ð­Òé¶¨ÒåÁËWAVEµÄÎÞÏß½ÓÈëÍøÂç²ã·þÎñWAVE¶ÌÏûÏ¢Ð­Òé£¨WAVE Short Message Protocol£¬WSMP£©£¬¶ÔÓ¦OSIÄ£ÐÍµÄÍøÂç²ã´«Êä²ã£¬Ö÷ÒªÌá¹©±¨ÎÄ´«ÊäºÍÑ°Ö·¡£µ±WAVEÉè±¸µÄÍ¨ÐÅ·¢Æð·½ÏëÒª·¢ËÍµÄÊý¾ÝÊ±£¬ÆäÉè¶¨Í¨ÐÅÄ¿µÄMACµØÖ·Îª¹ã²¥µØÖ·£¬Éè¶¨WSMP²ÎÊý£¬¾­¹ýÒ»¶¨²½ÖèÖ®ºóÔÚÐÅµÀÉÏ·¢ËÍ³öÈ¥¡£Ä¿µÄWAVEÉè±¸ÊÕµ½WSMPÖ¡Ö®ºó£¬¸ù¾ÝÆäÖÐÐ¯´øµÄProvider ServiceIDÀ´½²WSM×ª·¢¸ø¶ÔÓ¦µÄÉÏ²ã·þÎñ³ÌÐò¡£IEEE1609.3¶¨ÒåÁËWAVEÏµÍ³ÖÐÉè±¸µÄÁ½ÖÖ½ÇÉ«£¬Ò»ÖÖÊÇ·þÎñÌá¹©Õß£¨Provider£©£¬Ò»ÖÖÊÇ·þÎñÊ¹ÓÃÕß£¨User£©¡£½¨Á¢·þÎñ¹ý³ÌÖÐ£¬·þÎñÌá¹©ÕßÔÚCCHÉÏ¹ã²¥WSA£¬Í¨ÖªÆäËûÉè±¸ÓÐÄÄÐ©·þÎñÄÚÈÝ¡£WSA°üÀ¨ÁË·þÎñÌá¹©ÕßµÄ¹¤×÷ÐÅµÀ¡¢´«ÊäËÙÂÊ¡¢·þÎñID¡¢ÓÅÏÈ¼¶µÈ¡£UserÔÚ¿ØÖÆÐÅµÀÉÏ¼àÌýWSA£¬ÐÎ³ÉÒ»¸öÓÐÐ§µÄ·þÎñÁÐ±í¡£µ±UserµÄÉÏ²ãÓ¦ÓÃ³ÌÐòÐèÒªÊ¹ÓÃÄ³¸ö·þÎñÊ±£¬¾Í´Ó·þÎñÁÐ±íÖÐÕÒµ½ËùÐè·þÎñµÄÐÅÏ¢£¬È»ºó¸ù¾Ý¸ÃÐÅÏ¢Ëù°üº¬µÄ¹¤×÷ÐÅµÀ¡¢´«ÊäËÙÂÊ¡¢·þÎñID¡¢ÓÅÏÈ¼¶µÈ²ÎÊý£¬ÔÚÊÊµ±µÄÊ±¼äÌø×ªµ½ÊÊµ±µÄÆµµÀÉÏÒÔÊÊµ±µÄËÙÂÊ½ÓÊÕ·þÎñÌá¹©ÕßËùÌá¹©µÄ·þÎñ¡£¶ÔÓÚÊµÊ±ÐÔ½Ï¸ßµÄÊý¾ÝÓ¦ÓÃ£¬¿ÉÒÔÑ¡ÔñÖ±½ÓÔÚCCHÉÏ´«Êä£¬ÕâÖÖ·½Ê½²»ÐèÒªWSA¹ã²¥£¬Ö±½Ó¶ÔµÈÍ¨ÐÅ£¬½øÒ»²½¼õÐ¡ÑÓ³Ù¡£
 2.4LinuxÏà¹Ø±à³Ì
+
+
+2.5±¾ÕÂÐ¡½á
