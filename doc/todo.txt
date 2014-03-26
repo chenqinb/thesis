@@ -8,4 +8,7 @@
 没写谢鹏的EDCA部分，大概200字左右
 IEEE802.11p中少了EDCA部分，大概125字左右
 
-2、libpcap的移植
+2、libpcap的移植		QQ邮箱的记事本中有			ok
+
+
+libpcap小程序之后上层程序框架扩展等
